@@ -65,3 +65,15 @@ This solution provides a **hands-free, inclusive gaming experience** with **no e
 ```bash
 git clone https://github.com/Mohannram2004/AI_subway_controller.git
 cd AI_subway_controller
+
+
+2.**Install dependencies**
+```bash
+pip install opencv-python mediapipe pyautogui
+
+3.Run the program
+```bash
+python "AI powered subway suffer.py"
+
+
+
